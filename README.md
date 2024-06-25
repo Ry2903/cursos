@@ -1,2 +1,5 @@
-# Cursos
-Repositório para exercícios dos meus cursos
+# 🖥️ Cursos
+### 🕒 Em andamento
+- MySQL (Curso em Vídeo)
+
+### ✅ Concluídos
