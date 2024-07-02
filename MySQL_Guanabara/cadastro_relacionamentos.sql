@@ -34,4 +34,4 @@ insert into g_assiste_c values
 select * from g_assiste_c;
 
 select g.nome, c.nome from gafanhotos g join g_assiste_c a on g.id = a.idgafanhoto join cursos c on a.idcurso = c.idcurso order by g.nome;
-/* Join dentro de Join (relacionando com três tabelas)
+/* Join dentro de Join (relacionando com três tabelas)*/
