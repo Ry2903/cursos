@@ -1,5 +1,5 @@
 # 🖥️ Cursos
 ### 🕒 Em andamento
-- MySQL (Curso em Vídeo)
 
 ### ✅ Concluídos
+- 🐬 | MySQL (Curso em Vídeo)
